@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import array from '../../image/galleryImage';
-import '../common/Wrapper.css';
+import '../../Wrapper.css';
 
 const OuterDiv = styled.div`
     display: flex;

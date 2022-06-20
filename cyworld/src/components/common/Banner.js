@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import styled from 'styled-components';
 import music from '../../music/music';
-import '../common/Wrapper.css';
+import '../../Wrapper.css';
 
 const OuterDiv = styled.div`
     display: flex;

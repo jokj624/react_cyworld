@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import room from '../../image/room.jpeg';
 import Guest from './Guest';
 import TopContent from './TopContent';
-import '../common/Wrapper.css';
+import '../../Wrapper.css';
 
 const OuterDiv = styled.div`
     display: flex;

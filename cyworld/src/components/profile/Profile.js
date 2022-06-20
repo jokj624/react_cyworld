@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import profile from '../../image/profileImage.jpeg';
-import '../common/Wrapper.css';
+import '../../Wrapper.css';
 
 const OuterDiv = styled.div`
     display: flex;

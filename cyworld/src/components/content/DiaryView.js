@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import LockView from './LockView';
-import '../common/Wrapper.css';
+import '../..//Wrapper.css';
 
 const OuterDiv = styled.div`
     display: flex;

@@ -3,8 +3,6 @@ import styled from 'styled-components';
 import avatarArray from '../../image/avatar';
 import { createLetter, getAllLetters } from '../../lib/api';
 
-const axios = require('axios');
-
 const OuterDiv = styled.div`
     display: flex;
     justify-content: flex-start;
