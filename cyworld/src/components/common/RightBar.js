@@ -18,7 +18,7 @@ const RightDiv = styled.div`
         p {
             font-weight: bold;
             font-size: 1.2em;
-            font-family: sandol;
+            font-family: DOSGothic;
             margin-top: 0px;
             margin-bottom: 0px;
             
